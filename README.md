@@ -6,4 +6,4 @@ recreate the design of the iconic game : Mine Sweeper.
 
 ## Git Hub Pages
 
-<https://github.com/rulles13/flexbox-minesweeper>
+<rulles13.github.io/flexbox-minesweeper/>
