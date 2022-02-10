@@ -67,6 +67,15 @@
     box-sizing: border-box;
 }
 
+.hide {
+    opacity: 0;
+}
+
+.hide:hover{
+    opacity: 1;
+
+}
+
 .notRevelated:before{
     content: " ";
     position: absolute;
@@ -77,3 +86,4 @@
     left: 0;
     border: 3px outset rgb(255, 255, 255);
 }
+
